@@ -1,6 +1,6 @@
 # require modules here
 
-def load_library(emoticons)
+def load_library(yaml)
   {
       angel => {
     :english => "O:)",
