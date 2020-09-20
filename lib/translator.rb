@@ -54,6 +54,7 @@ def load_library
     :english => ";)",
     :japanese => "(^_-)"
   }
+}
 end
 
 def get_japanese_emoticon(Western_emoticon)
