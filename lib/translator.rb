@@ -1,7 +1,7 @@
 # require modules here
 
 def load_library(filepath)
-  {
+  puts {
   angel => {
     :english => "O:)",
     :japanese => "☜(⌒▽⌒)☞"
