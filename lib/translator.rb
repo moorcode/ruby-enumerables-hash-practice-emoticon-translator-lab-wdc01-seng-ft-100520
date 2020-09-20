@@ -57,10 +57,10 @@ def load_library
 }
 end
 
-def get_japanese_emoticon(Western_emoticon)
+def get_japanese_emoticon(emoticon)
 
 end
 
-def get_english_meaning(Japanese_emoticon)
+def get_english_meaning(emoticon)
 
 end
