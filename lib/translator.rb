@@ -3,7 +3,7 @@
 def load_library(filepath)
   require 'yaml'
 thing = YAML.load_file('lib/emoticons.yml')
-# puts thing.inspect
+puts thing.try_convert
 #   puts {
 #   angel => {
 #     :english => "O:)",
