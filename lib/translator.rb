@@ -3,7 +3,7 @@
 def load_library
   {
       angel => {
-    :english => "O:)",    
+    :english => "O:)",
     :japanese => "☜(⌒▽⌒)☞"
   },
   angry => {
@@ -19,7 +19,7 @@ def load_library
     :japanese => "(゜.゜)"
   },
   embarrassed => {
-    :english => ":$", 
+    :english => ":$",
     :japanese => "(#^.^#)"
   },
   fish => {
@@ -57,9 +57,9 @@ def load_library
 end
 
 def get_japanese_emoticon(Western_emoticon)
-  
+
 end
 
 def get_english_meaning(Japanese_emoticon)
-  
+
 end
